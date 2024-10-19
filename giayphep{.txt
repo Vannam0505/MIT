@@ -1,0 +1,13 @@
+{
+MIT License
+
+Copyright (c) [2024] [giacatnam-Ps37363]
+
+Được cấp phép sử dụng, sao chép, sửa đổi, hợp nhất, xuất bản, phân phối, cấp phép và/hoặc bán bản sao của phần mềm này, và cho phép những người nhận bản sao phần mềm này thực hiện như vậy, với các điều kiện sau:
+
+1. Thông báo bản quyền trên tất cả các bản sao hoặc phần quan trọng của phần mềm này phải được bao gồm trong tất cả các bản sao hoặc phần quan trọng của phần mềm này.
+
+2. Phần mềm này được cung cấp "như có", mà không có bất kỳ bảo đảm nào về tính đầy đủ, tính chính xác, hoặc bất kỳ bảo đảm nào khác, cho dù rõ ràng hay ngụ ý, bao gồm nhưng không giới hạn ở các bảo đảm ngụ ý về khả năng bán được, tính phù hợp cho một mục đích cụ thể và không vi phạm.
+
+3. Trong bất kỳ trường hợp nào, các tác giả hoặc chủ sở hữu bản quyền sẽ không chịu trách nhiệm về bất kỳ yêu cầu nào, thiệt hại hoặc chi phí nào, bao gồm nhưng không giới hạn ở thiệt hại do mất mát sử dụng, dữ liệu hoặc lợi nhuận, hoặc do bất kỳ lý do nào khác, ngay cả khi đã được thông báo về khả năng xảy ra thiệt hại đó.
+}
